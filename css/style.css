@@ -469,6 +469,9 @@ footer h5 {
     nav {
         display: none;
     }
+       header form.d-flex {
+        display: none !important;
+    }
 
     header form.d-flex {
         display: none !important;
